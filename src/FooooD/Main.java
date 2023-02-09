@@ -1,4 +1,4 @@
-package Food;
+package FooooD;
 
 public class Main {
     public static void main(String[] args) {
