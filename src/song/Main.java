@@ -12,7 +12,20 @@ public class Main {
         Song[] album1 = {song1, song2};
         Song[] album2 = {song2, song3};
 
-        System.out.println("Album 1:");
+        Song song23 = new Song() {
+            @Override
+            public String getInterpret() {
+                return "Micheal Jackson";
+            }
+
+            @Override
+            public Genre getGenre() {
+                return pop;
+            }
+        };
+        System.out.println(song23);
+
+       /* System.out.println("Album 1:");
         for (Song song : album1) {
             System.out.println("Interpret: " + song.getInterpret() + ", Genre: " + song.getGenre().getName());
         }
@@ -20,6 +33,6 @@ public class Main {
         System.out.println("\nAlbum 2:");
         for (Song song : album2) {
             System.out.println("Interpret: " + song.getInterpret() + ", Genre: " + song.getGenre().getName());
-        }
+        }*/
     }
 }
