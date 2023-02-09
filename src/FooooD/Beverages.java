@@ -1,5 +1,5 @@
 package FooooD;
 
-public interface Beverages extends Food {
-
+public interface Beverages extends Meal {
+    String preparation = "";
 }

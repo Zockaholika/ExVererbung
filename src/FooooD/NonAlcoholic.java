@@ -1,4 +1,4 @@
 package FooooD;
 
-public class NonAlcoholic implements Drink{
+public class NonAlcoholic implements Beverages {
 }

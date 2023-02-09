@@ -1,5 +1,5 @@
 package FooooD;
 
-public interface Food {
+public interface Meal {
     String eat = "";
 }
