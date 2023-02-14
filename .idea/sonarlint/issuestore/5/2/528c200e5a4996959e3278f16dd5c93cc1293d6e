@@ -1,0 +1,15 @@
+
+P
+java:S1854
+":Remove this useless assignment to local variable "nonAlc".(½âÒš
+T
+java:S1854"9Remove this useless assignment to local variable "greek".(Ô·äƒûÿÿÿÿ
+E
+java:S1481"*Remove this unused "greek" local variable.(Ô·äƒûÿÿÿÿ
+A
+java:S1481
+"+Remove this unused "nonAlc" local variable.(½âÒš
+A
+java:S1905",Remove this unnecessary cast to "Bolognese".(‚¿ÔF
+<
+java:S1905"'Remove this unnecessary cast to "Beer".(Á¬½9

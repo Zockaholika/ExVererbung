@@ -1,0 +1,15 @@
+
+[
+java:S1854
+"9Remove this useless assignment to local variable "song3".(ֽךבתÿÿÿÿ8¹¡ְ¿ד0
+[
+java:S1854	"9Remove this useless assignment to local variable "song2".(©ח€¨רÿÿÿÿ8÷¡ְ¿ד0
+[
+java:S1854"9Remove this useless assignment to local variable "song1".(‹ׂÙ¾‎ÿÿÿÿ8÷¡ְ¿ד0
+L
+java:S1481"*Remove this unused "song1" local variable.(‹ׂÙ¾‎ÿÿÿÿ8½¡ְ¿ד0
+L
+java:S1481	"*Remove this unused "song2" local variable.(©ח€¨רÿÿÿÿ8½¡ְ¿ד0
+L
+java:S1481
+"*Remove this unused "song3" local variable.(ֽךבתÿÿÿÿ8¾¡ְ¿ד0
